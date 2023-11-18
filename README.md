@@ -6,7 +6,7 @@ A Wordle clone game developed in HTML, CSS, and JavaScript. Challenge yourself b
 
 ## Demo
 
-[Play the Wordle Clone Game](#) <!-- Add a link to the live demo if available -->
+[Play the Wordle Clone Game](#) <https://meghnaj-wordle-clone.netlify.app/>
 
 ## Features
 
